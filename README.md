@@ -154,3 +154,33 @@ View Bookings
 🖼️ Diagram:
 
  ![Use Case Diagram for Booking System](./alx-booking-uc.png)
+
+Here's the section you should add to your `README.md` file:
+
+---
+
+### ✅ Acceptance Criteria
+
+**Acceptance Criteria** are the conditions that a software product must satisfy to be accepted by a user, customer, or other stakeholders. They are essential in **Requirement Analysis** to define clear and testable expectations for each feature or user story.
+
+#### 📌 Why Acceptance Criteria Matter:
+
+* They define the boundaries of a user story or feature.
+* Ensure that everyone (developers, testers, and stakeholders) has a shared understanding of what is required.
+* Help validate that the implementation meets business needs.
+* Support testing by serving as the basis for test cases.
+
+---
+
+#### 🛒 Example: Acceptance Criteria for the **Checkout Feature** in the Booking System
+
+**Feature:** Checkout after booking a property
+
+**Acceptance Criteria:**
+
+* The user must be logged in to proceed to checkout.
+* The checkout page must display a summary of the booking details (dates, property name, price).
+* The user must be able to choose a payment method (e.g., credit card, PayPal).
+* A confirmation message must be shown after successful payment.
+* If payment fails, an error message should be shown, and the user should be able to retry.
+
