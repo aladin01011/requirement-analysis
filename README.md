@@ -82,3 +82,38 @@ Helps stakeholders articulate needs they might not be able to express clearly at
 Focuses on reviewing and confirming requirements with stakeholders to ensure they are accurate, complete, and feasible.
 
 Helps detect ambiguities, inconsistencies, or contradictions before development begins
+
+🧩 Types of Requirements
+In software development, requirements are generally classified into two main categories: Functional Requirements and Non-functional Requirements. Both are essential for delivering a complete and usable system.
+
+✅ Functional Requirements
+Definition:
+Functional requirements define what the system should do—they describe the core functions, features, and interactions the software must support.
+
+Examples for a Booking Management Project:
+
+ -Users must be able to search for available properties by location and date.
+
+ -The system should allow user registration and login with authentication.
+
+ -Users can book a property, and the system should confirm the reservation.
+
+ -Admins must be able to add, update, or delete property listings.
+
+ -Users should receive email notifications for booking confirmations and cancellations.
+
+🛠 Non-functional Requirements
+Definition:
+Non-functional requirements specify how the system should perform. They relate to quality attributes such as performance, usability, security, and reliability.
+
+Examples for a Booking Management Project:
+
+ -The website must load within 2 seconds for 90% of user interactions.
+
+ -The system should support up to 10,000 concurrent users without performance degradation.
+
+ -All user data must be encrypted and stored securely in compliance with GDPR.
+
+ -The platform should maintain 99.9% uptime throughout the year.
+
+ -The interface must be accessible on mobile devices and screen readers.
