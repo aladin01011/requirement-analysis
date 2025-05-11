@@ -108,12 +108,48 @@ Non-functional requirements specify how the system should perform. They relate t
 
 Examples for a Booking Management Project:
 
- -The website must load within 2 seconds for 90% of user interactions.
+ *The website must load within 2 seconds for 90% of user interactions.
 
- -The system should support up to 10,000 concurrent users without performance degradation.
+ *The system should support up to 10,000 concurrent users without performance degradation.
 
- -All user data must be encrypted and stored securely in compliance with GDPR.
+ *All user data must be encrypted and stored securely in compliance with GDPR.
 
- -The platform should maintain 99.9% uptime throughout the year.
+ *The platform should maintain 99.9% uptime throughout the year.
 
- -The interface must be accessible on mobile devices and screen readers.
+ *The interface must be accessible on mobile devices and screen readers.
+
+🗂 Use Case Diagrams
+Use Case Diagrams are a type of behavioral diagram in UML (Unified Modeling Language) that visually represent the interactions between users (actors) and the system (use cases). They help stakeholders understand the system’s functionality at a high level without getting into technical details.
+
+📌 Benefits of Use Case Diagrams:
+ *Provide a clear visual overview of system functionality.
+
+ *Help in identifying system boundaries and major user interactions.
+
+ *Improve communication between stakeholders and developers.
+
+ *Assist in the requirement gathering and validation processes.
+
+🏘 Use Case Diagram for the Booking Management System
+Actors:
+
+User: Searches, registers, books properties, manages bookings.
+
+Admin: Manages property listings, views bookings.
+
+Use Cases:
+
+ *Register/Login
+
+ *Search Properties
+
+ *Book Property
+
+ *Cancel Booking
+
+ *Manage Listings (Admin)
+
+View Bookings
+
+🖼️ Diagram:
+ ![Use Case Diagram for Booking System](./alx-booking-uc.png)
