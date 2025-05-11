@@ -32,14 +32,13 @@ Requirement Analysis is a critical phase in the Software Development Life Cycle 
 - Manages Scope: Helps define project boundaries and avoid scope creep.
 
 - Improves Quality: Ensures the final product meets user expectations and business needs.
-
-  ❗ Why is Requirement Analysis Important?
-Requirement Analysis plays a vital role in ensuring the success of a software project. It acts as the bridge between stakeholders and developers, ensuring that the final product is aligned with business objectives and user expectations.
+❗ Why is Requirement Analysis Important?
+  Requirement Analysis plays a vital role in ensuring the success of a software project. It acts as the bridge between stakeholders and developers, ensuring that the final product is aligned with business objectives and user expectations.
 
 🔑 Key Reasons Requirement Analysis is Critical:
-1.Ensures Clarity and Alignment
+ 1.Ensures Clarity and Alignment
 
-By gathering and analyzing requirements early, teams can avoid misunderstandings and ensure all stakeholders agree on what the system should do.
+ By gathering and analyzing requirements early, teams can avoid misunderstandings and ensure all stakeholders agree on what the system should do.
 
 2.Reduces Project Risks and Costs
 
