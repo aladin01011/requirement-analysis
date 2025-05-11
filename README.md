@@ -47,3 +47,37 @@ Identifying issues and gaps in the requirements phase helps catch potential prob
 3.Guides Design, Development, and Testing
 
 A well-analyzed set of requirements provides a foundation for system design, coding, and quality assurance, ensuring the end product is reliable and meets expectations.
+
+🔍 Key Activities in Requirement Analysis
+The Requirement Analysis process involves several structured activities that help ensure the final system meets user and business needs. Below are the five key activities:
+
+- Requirement Gathering
+
+The initial step where information is collected from stakeholders through interviews, surveys, observations, and questionnaires.
+
+Focuses on understanding the business goals, user expectations, and problem domain.
+
+- Requirement Elicitation
+
+Involves refining and uncovering requirements through interactive techniques like brainstorming, workshops, prototyping, and use cases.
+
+Helps stakeholders articulate needs they might not be able to express clearly at first.
+
+- Requirement Documentation
+
+ Converts gathered and elicited requirements into structured documentation such as Software Requirement Specifications (SRS), user 
+ stories, or use case diagrams.
+
+ Ensures consistency, clarity, and completeness in the requirement statements.
+
+- Requirement Analysis and Modeling
+
+ Involves categorizing, prioritizing, and resolving conflicts among requirements.
+
+ Uses modeling tools like data flow diagrams (DFDs), entity-relationship diagrams (ERDs), and use case diagrams to visualize the system's behavior and structure.
+
+- Requirement Validation
+
+Focuses on reviewing and confirming requirements with stakeholders to ensure they are accurate, complete, and feasible.
+
+Helps detect ambiguities, inconsistencies, or contradictions before development begins
