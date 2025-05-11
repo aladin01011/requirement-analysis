@@ -152,4 +152,5 @@ Use Cases:
 View Bookings
 
 🖼️ Diagram:
+
  ![Use Case Diagram for Booking System](./alx-booking-uc.png)
