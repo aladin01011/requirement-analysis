@@ -38,11 +38,12 @@ Requirement Analysis is a critical phase in the Software Development Life Cycle 
 🔑 Key Reasons Requirement Analysis is Critical:
  1.Ensures Clarity and Alignment
 
- By gathering and analyzing requirements early, teams can avoid misunderstandings and ensure all stakeholders agree on what the system should do.
+ By gathering and analyzing requirements early, teams can avoid misunderstandings and ensure all stakeholders agree on what the 
+ system should do.
 
-2.Reduces Project Risks and Costs
+ 2.Reduces Project Risks and Costs
 
-Identifying issues and gaps in the requirements phase helps catch potential problems before development begins, saving time and money later in the project.
+ Identifying issues and gaps in the requirements phase helps catch potential problems before development begins, saving time and money later in the project.
 
 3.Guides Design, Development, and Testing
 
